@@ -1,5 +1,6 @@
 **Simple Compiler with Login GUI (Java Swing)
 **
+
 This project is a Java-based GUI application that simulates a simple compiler for evaluating arithmetic expressions — but with a twist:
 you must log in first to access the compiler window! 🔐
 
